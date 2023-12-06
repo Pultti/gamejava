@@ -1,3 +1,8 @@
+## Usage Guidelines
+
+Hello and thanks for your interest in this repository! I encourage you to **fork this repository** rather than cloning it directly.
+ Forking allows for better tracking of changes and collaboration. Your understanding and cooperation are much appreciated!
+
 # gamejava
 
 Spring Boot application that implements a simple quiz game. The game has a series of questions and keeps track of the user's score as well as the number of remaining attempts. The game can be interacted with via RESTful APIs, making it easy to integrate with various front-end technologies. It also includes features like game state management, which allows for the game to be reset and restarted.
